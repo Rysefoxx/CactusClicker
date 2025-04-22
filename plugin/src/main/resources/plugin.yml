@@ -1,0 +1,5 @@
+name: CactusClicker
+version: 0.1
+api-version: 1.21
+author: Rysefoxx
+main: io.github.rysefoxx.plugin.CactusClickerPlugin
